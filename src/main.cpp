@@ -2779,7 +2779,7 @@ bool InitBlockIndex() {
         //   vMerkleTree: 97ddfbbae6
 
         // Genesis block
-        const char* pszTimestamp = "The release of deepSeek shakes up the AI industry";
+        const char* pszTimestamp = "The release of DeepSeek shakes up the AI industry";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
