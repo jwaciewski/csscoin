@@ -3,9 +3,9 @@ A fork of Litecoin for personal research.
 RPC port: 8420
 P2P port: 8421
 
-Total number of coins: 20.000.000\\
-Halving time: ~4 years\\
-Initial reward per block: 100 Csscoins\\
+Total number of coins: 20.000.000
+Halving time: ~4 years
+Initial reward per block: 100 Csscoins
 One block every: 20 minutes
 
 Litecoin integration/staging tree
