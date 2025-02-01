@@ -2779,12 +2779,12 @@ bool InitBlockIndex() {
         //   vMerkleTree: 97ddfbbae6
 
         // Genesis block
-        const char* pszTimestamp = "NY Times 05/Oct/2011 Steve Jobs, Apple’s Visionary, Dies at 56";
+        const char* pszTimestamp = "The release of deepSeek shakes up the AI industry";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CBigNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
-        txNew.vout[0].nValue = 50 * COIN;
+        txNew.vout[0].nValue = 100 * COIN;
         txNew.vout[0].scriptPubKey = CScript() << ParseHex("04abfb8e9223413841e03065c7e9d52305b9beac8308520e2eda3bde1658197ef8f51fdd8f9d947e61573ae76c0aa38e5c6e7c9e259a2e8e5bf11b34be350ddb87") << OP_CHECKSIG;
         CBlock block;
         block.vtx.push_back(txNew);
