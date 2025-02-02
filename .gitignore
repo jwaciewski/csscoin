@@ -1,5 +1,5 @@
 src/*.exe
-src/csscoin
+#src/csscoin
 src/csscoind
 src/test_csscoin
 .*.swp
