@@ -14,7 +14,8 @@ Csscoin integration/staging tree
 http://www.csscoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Csscoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2025-2025 Csscoin Developers
 
 What is Csscoin?
 ----------------
