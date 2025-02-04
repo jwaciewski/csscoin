@@ -7,6 +7,7 @@ Total number of coins: 20.000.000<br/>
 Halving time: ~4 years<br/>
 Initial reward per block: 100 Csscoins<br/>
 One block every: 20 minutes
+Difficulty readjustment period: 2 days
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
