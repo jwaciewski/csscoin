@@ -1,7 +1,11 @@
+# Introduction
+
 A fork of Csscoin for personal research.
 
 RPC port: 8420
 P2P port: 8421
+
+Blockchain explorer: http://188.245.66.236:3001/
 
 Total number of coins: 20.000.000<br/>
 Halving time: ~70 days<br/>
