@@ -6,7 +6,7 @@ P2P port: 8421
 Total number of coins: 20.000.000<br/>
 Halving time: ~70 days<br/>
 Initial reward per block: 100 Csscoins<br/>
-One block every: 1 minutes
+One block every: 1 minutes </br>
 Difficulty readjustment period: 1 hour
 
 Copyright (c) 2009-2014 Bitcoin Developers </br>
