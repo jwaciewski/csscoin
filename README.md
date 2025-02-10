@@ -10,7 +10,7 @@ One block every: 1 minutes
 Difficulty readjustment period: 1 hour
 
 Copyright (c) 2009-2014 Bitcoin Developers </br>
-Copyright (c) 2011-2014 Litecoin Developers </be>
+Copyright (c) 2011-2014 Litecoin Developers </br>
 Copyright (c) 2025-2025 Csscoin Developers </br>
 
 # Installation
