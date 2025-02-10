@@ -4,10 +4,10 @@ RPC port: 8420
 P2P port: 8421
 
 Total number of coins: 20.000.000<br/>
-Halving time: ~4 years<br/>
+Halving time: ~70 days<br/>
 Initial reward per block: 100 Csscoins<br/>
-One block every: 20 minutes
-Difficulty readjustment period: 2 days
+One block every: 1 minutes
+Difficulty readjustment period: 1 hour
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
