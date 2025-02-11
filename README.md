@@ -1,6 +1,6 @@
 # Introduction
 
-A fork of Csscoin for personal research.
+A fork of Litecoin for personal research.
 
 RPC port: 8420
 P2P port: 8421
