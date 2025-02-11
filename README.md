@@ -1,6 +1,6 @@
 # Introduction
 
-A fork of Litecoin for personal research.
+A fork of Litecoin for personal research. It uses its completely independent blockchain.
 
 RPC port: 8420
 P2P port: 8421
